@@ -1,0 +1,300 @@
+{"@t":"2018-09-26T06:40:35.9005477Z","@mt":"Hello"}
+{"@t":"2018-09-26T06:40:35.9155486Z","@mt":"Goodbye, Serilog","@l":"Warning"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 0 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 1 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 2 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 3 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 4 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 5 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 6 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 7 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 8 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 9 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 10 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 11 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 12 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 13 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 14 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 15 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 16 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 17 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 18 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 19 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 20 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 21 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 22 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 23 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 24 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 25 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 26 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 27 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 28 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 29 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 30 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 31 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 32 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9175487Z","@mt":"Processing item 33 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 34 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 35 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 36 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 37 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 38 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 39 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 40 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 41 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 42 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 43 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 44 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 45 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 46 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 47 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 48 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 49 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 50 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 51 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 52 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 53 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 54 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 55 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 56 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 57 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 58 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 59 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 60 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 61 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 62 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 63 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 64 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 65 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 66 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 67 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 68 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 69 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 70 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 71 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 72 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 73 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 74 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 75 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 76 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 77 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 78 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 79 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 80 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 81 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 82 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 83 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 84 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 85 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 86 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 87 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 88 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 89 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 90 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 91 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 92 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 93 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 94 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 95 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 96 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 97 of 99","@l":"Debug"}
+{"@t":"2018-09-26T06:40:35.9185487Z","@mt":"Processing item 98 of 99","@l":"Debug"}
+{"@t":"2018-09-26T09:57:43.1640285Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":0,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":1,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":2,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":3,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":4,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":5,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":6,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":7,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":8,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":9,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":10,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":11,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":12,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":13,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":14,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":15,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":16,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":17,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":18,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":19,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":20,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":21,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":22,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":23,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":24,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":25,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":26,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":27,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":28,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":29,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":30,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":31,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":32,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":33,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":34,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":35,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":36,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1880298Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":37,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":38,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":39,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":40,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":41,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":42,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":43,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":44,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":45,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":46,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":47,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":48,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":49,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":50,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":51,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":52,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":53,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":54,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":55,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":56,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":57,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":58,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":59,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":60,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":61,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":62,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":63,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":64,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":65,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":66,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":67,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":68,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":69,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":70,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":71,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":72,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":73,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":74,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":75,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":76,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":77,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":78,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":79,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":80,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":81,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":82,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":83,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":84,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":85,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":86,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":87,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":88,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":89,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":90,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":91,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":92,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":93,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":94,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":95,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":96,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":97,"ItemCount":99}
+{"@t":"2018-09-26T09:57:43.1890299Z","@mt":"Processing item {ItemNumber} of {ItemCount}","@l":"Debug","ItemNumber":98,"ItemCount":99}
+2018-09-26 18:01:14.198 +08:00 [DBG] Processing item 0 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 1 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 2 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 3 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 4 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 5 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 6 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 7 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 8 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 9 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 10 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 11 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 12 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 13 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 14 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 15 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 16 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 17 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 18 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 19 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 20 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 21 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 22 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 23 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 24 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 25 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 26 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 27 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 28 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 29 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 30 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 31 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 32 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 33 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 34 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 35 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 36 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 37 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 38 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 39 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 40 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 41 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 42 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 43 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 44 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 45 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 46 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 47 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 48 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 49 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 50 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 51 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 52 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 53 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 54 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 55 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 56 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 57 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 58 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 59 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 60 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 61 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 62 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 63 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 64 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 65 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 66 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 67 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 68 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 69 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 70 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 71 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 72 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 73 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 74 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 75 of 99
+2018-09-26 18:01:14.217 +08:00 [DBG] Processing item 76 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 77 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 78 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 79 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 80 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 81 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 82 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 83 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 84 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 85 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 86 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 87 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 88 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 89 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 90 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 91 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 92 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 93 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 94 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 95 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 96 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 97 of 99
+2018-09-26 18:01:14.218 +08:00 [DBG] Processing item 98 of 99
